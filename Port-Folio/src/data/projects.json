@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Project Engreesi",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/NavodWijesooriya/engreesi"
+    },
+    {
+      "title": "Project Tic-Tac-Game",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node", "Sass"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/NavodWijesooriya/tic-tac-game"
+    },
+    {
+      "title": "Project NavodWijesooriya",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/NavodWijesooriya/NavodWijesooriya"
+    }
+  ]
