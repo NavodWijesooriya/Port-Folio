@@ -12,7 +12,7 @@ export const Hero = () => {
           I'm a full-stack developer with 2 years of experience using React and
           NodeJS. Reach out if you'd like to learn more!
         </p>
-        <a href="mailto:myemail@email.com" className={styles.contactBtn}>
+        <a href="mailto:navodtwijesooriya@gmail.com" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>
