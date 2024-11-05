@@ -9,8 +9,8 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Navod</h1>
         <p className={styles.description}>
-          I'm a full-stack developer with 2 years of experience using React and
-          NodeJS. Reach out if you'd like to learn more!
+        I'm undergraduate student in University of Colombo School of Computing ,
+        and learning fontend developing 
         </p>
         <a href="mailto:navodtwijesooriya@gmail.com" className={styles.contactBtn}>
           Contact Me

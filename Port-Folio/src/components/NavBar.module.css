@@ -8,15 +8,22 @@
   padding-top: 61px;
   z-index: 2;
   margin: 0 10%;
+  /*background-color: #19376d; 8*/
 }
 
-.title {
+/*.title {
   font-size: 30px;
   font-weight: 600;
   text-decoration: none;
   color: var(--color-text);
 }
+  */
 
+
+.logopng {
+  width: 50%;
+
+}
 
 .menuBtn {
   display: none;

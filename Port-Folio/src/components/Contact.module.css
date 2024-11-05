@@ -52,10 +52,15 @@
     gap: 23px;
   }
 
+  .link a {
+    font-size: 20px;
+  }
+
   .text {
     display: flex;
     flex-direction: column;
     align-items: center;
+    
   }
 
   .links {
