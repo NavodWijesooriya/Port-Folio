@@ -6,23 +6,10 @@
       "endDate": "Present",
       "experiences": ["Frontend Developing"],
       "imageSrc": "history/ucsc.png"
-    },
-    {
-      "role": "Undergraduate",
-      "organisation": "UCSC",
-      "startDate": "2023",
-      "endDate": "Present",
-      "experiences": ["Frontend Developing"],
-      "imageSrc": "history/ucsc.png"
-    },
-    {
-      "role": "Undergraduate",
-      "organisation": "UCSC",
-      "startDate": "2023",
-      "endDate": "Present",
-      "experiences": [
-        "Frontend Developing"
-      ],
-      "imageSrc": "history/ucsc.png"
     }
+
+
+   
+      
   ]
+    
