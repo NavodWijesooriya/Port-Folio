@@ -1,26 +1,34 @@
-[
+  [
     {
-      "title": "Project Engreesi",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://github.com/NavodWijesooriya/engreesi"
+        "title": "Project Engreesi",
+        "imageSrc": "projects/project.png",
+        "description": "A web application built to explore modern development tools and frameworks, focusing on creating a functional, responsive UI.",
+        "skills": ["React", "Express", "Node"],
+        "demo": "https://www.example.com",
+        "source": "https://github.com/NavodWijesooriya/engreesi"
     },
     {
-      "title": "Project Tic-Tac-Game",
-      "imageSrc": "projects/sss.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
-      "demo": "https://www.example.com",
-      "source": "https://github.com/NavodWijesooriya/tic-tac-game"
+        "title": "Project Tic-Tac-Game",
+        "imageSrc": "projects/sss.png",
+        "description": "An interactive tic-tac-toe game designed with dynamic gameplay, showcasing advanced front-end techniques and responsive styling.",
+        "skills": ["React", "Express", "Node", "Sass"],
+        "demo": "https://tic-tac-game-mu.vercel.app/",
+        "source": "https://github.com/NavodWijesooriya/tic-tac-game"
     },
     {
-      "title": "Project NavodWijesooriya",
-      "imageSrc": "projects/sss2.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://github.com/NavodWijesooriya/NavodWijesooriya"
+        "title": "Project NavodWijesooriya",
+        "imageSrc": "projects/sss2.png",
+        "description": "A personal project built to dive deeper into full-stack development using popular libraries and backend technologies.",
+        "skills": ["React", "Express", "Node"],
+        "demo": "https://www.example.com",
+        "source": "https://github.com/NavodWijesooriya/NavodWijesooriya"
+    },
+    {
+        "title": "MY Portfolio",
+        "imageSrc": "projects/sss3.png",
+        "description": "A digital portfolio to showcase various projects, skills, and design expertise, implemented with a clean and user-friendly interface.",
+        "skills": ["React", "Express", "Node"],
+        "demo": "https://port-folio-ruddy-theta.vercel.app/",
+        "source": "https://github.com/NavodWijesooriya/NavodWijesooriya"
     }
-  ]
+]
