@@ -16,12 +16,12 @@
         "source": "https://github.com/NavodWijesooriya/tic-tac-game"
     },
     {
-        "title": "Project NavodWijesooriya",
-        "imageSrc": "projects/sss2.png",
-        "description": "A personal project built to dive deeper into full-stack development using popular libraries and backend technologies.",
-        "skills": ["React", "Express", "Node"],
-        "demo": "https://www.example.com",
-        "source": "https://github.com/NavodWijesooriya/NavodWijesooriya"
+        "title": "Invoice App",
+        "imageSrc": "projects/sss4.png",
+        "description": "A personal project built to dive deeper into java",
+        "skills": ["Java"],
+        "demo": "",
+        "source": ""
     },
     {
         "title": "MY Portfolio",
