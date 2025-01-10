@@ -18,7 +18,7 @@
     {
         "title": "Invoice App",
         "imageSrc": "projects/sss4.png",
-        "description": "A web application built to explore modern development tools and frameworks, focusing on creating a functional, responsive UI  with a clean and user-friendly interface.",
+        "description": "A Deskstop application built to explore modern development tools and frameworks, focusing on creating a functional, responsive UI  with a clean and user-friendly interface.",
         "skills": ["Java"],
         "demo": "https://github.com/NavodWijesooriya/Poss-System target='_blank'",
         "source": "https://github.com/NavodWijesooriya/Poss-System target='_blank'"
