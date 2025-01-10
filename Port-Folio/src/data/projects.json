@@ -10,7 +10,7 @@
     {
         "title": "Project Tic-Tac-Game",
         "imageSrc": "projects/sss.png",
-        "description": "An interactive tic-tac-toe game designed with dynamic gameplay, showcasing advanced front-end techniques and responsive styling.",
+        "description": "A web application built to explore modern development tools and frameworks, focusing on creating a functional, responsive UI with a clean and user-friendly interface.",
         "skills": ["React", "Express", "Node", "Sass"],
         "demo": "https://tic-tac-game-mu.vercel.app/",
         "source": "https://github.com/NavodWijesooriya/tic-tac-game"
@@ -18,7 +18,7 @@
     {
         "title": "Invoice App",
         "imageSrc": "projects/sss4.png",
-        "description": "A personal project built to dive deeper into java",
+        "description": "A web application built to explore modern development tools and frameworks, focusing on creating a functional, responsive UI  with a clean and user-friendly interface.",
         "skills": ["Java"],
         "demo": "https://github.com/NavodWijesooriya/Poss-System target='_blank'",
         "source": "https://github.com/NavodWijesooriya/Poss-System target='_blank'"
@@ -26,7 +26,7 @@
     {
         "title": "MY Portfolio",
         "imageSrc": "projects/sss3.png",
-        "description": "A digital portfolio to showcase various projects, skills, and design expertise, implemented with a clean and user-friendly interface.",
+        "description": "A web application built to explore modern development tools and frameworks, focusing on creating a functional, responsive UI with a clean and user-friendly interface.",
         "skills": ["React", "Express", "Node"],
         "demo": "https://port-folio-ruddy-theta.vercel.app/",
         "source": "https://github.com/NavodWijesooriya/NavodWijesooriya"

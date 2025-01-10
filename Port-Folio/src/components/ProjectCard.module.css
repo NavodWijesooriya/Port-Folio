@@ -8,10 +8,14 @@
   box-shadow: 0 16px 14px 0 #04152d;
   padding: 18px 24px;
   max-width: 345px;
+  width: 100%; /* Ensure it takes full width available */
+  height: 100%; /* Allow it to have a consistent height */
+  box-sizing: border-box; /* Make sure padding doesn't affect the overall size */
 }
 
 .image {
   margin-bottom: 26px;
+  flex-shrink: 0; /* Prevent image from shrinking */
 }
 
 .title {
@@ -58,4 +62,15 @@
   border-radius: 100px;
   background: var(--color-primary);
   padding: 1px 22px;
+}
+
+/* Optional: If you want to force all containers to have the same height and width */
+.container-wrapper {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.container-wrapper .container {
+  height: 500px; /* Set a fixed height or use min-height for uniform size */
 }

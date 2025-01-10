@@ -24,16 +24,3 @@
   gap: 15px;
   width: 100%;
 }
-
-.project-item {
-  flex: 1 1 calc(25% - 30px); /* Adjust size, e.g., 25% for 4 items in a row */
-  max-width: calc(25% - 30px); /* Ensure they don't exceed the width */
-  min-width: 200px; /* Set a minimum width to maintain responsive behavior */
-  height: 300px; /* Fixed height for uniformity */
-  background-color: var(--color-background); /* Example background */
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  border: 1px solid var(--color-border); /* Optional border */
-  border-radius: 8px; /* Optional rounded corners */
-}
