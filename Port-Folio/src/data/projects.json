@@ -5,7 +5,7 @@
         "description": "A web application built to explore modern development tools and frameworks, focusing on creating a functional, responsive UI.",
         "skills": ["React", "Express", "Node"],
         "demo": "https://www.example.com target='_blank'",
-        "source": "https://github.com/NavodWijesooriya/engreesi"
+        "source": "https://github.com/NavodWijesooriya/engreesi target='_blank'"
     },
     {
         "title": "Project Tic-Tac-Game",
@@ -13,7 +13,7 @@
         "description": "An interactive tic-tac-toe game designed with dynamic gameplay, showcasing advanced front-end techniques and responsive styling.",
         "skills": ["React", "Express", "Node", "Sass"],
         "demo": "https://tic-tac-game-mu.vercel.app/ target='_blank'",
-        "source": "https://github.com/NavodWijesooriya/tic-tac-game"
+        "source": "https://github.com/NavodWijesooriya/tic-tac-game target='_blank'"
     },
     {
         "title": "Invoice App",
@@ -21,7 +21,7 @@
         "description": "A personal project built to dive deeper into java",
         "skills": ["Java"],
         "demo": "",
-        "source": "https://github.com/NavodWijesooriya/Poss-System"
+        "source": "https://github.com/NavodWijesooriya/Poss-System target='_blank'"
     },
     {
         "title": "MY Portfolio",
@@ -29,6 +29,6 @@
         "description": "A digital portfolio to showcase various projects, skills, and design expertise, implemented with a clean and user-friendly interface.",
         "skills": ["React", "Express", "Node"],
         "demo": "https://port-folio-seven-coral.vercel.app/  target='_blank'",
-        "source": "https://github.com/NavodWijesooriya/NavodWijesooriya "
+        "source": "https://github.com/NavodWijesooriya/NavodWijesooriya target='_blank'"
     }
 ]
