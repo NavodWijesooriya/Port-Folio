@@ -20,8 +20,8 @@
         "imageSrc": "projects/sss4.png",
         "description": "A personal project built to dive deeper into java",
         "skills": ["Java"],
-        "demo": "",
-        "source": ""
+        "demo": "https://github.com/NavodWijesooriya/Poss-System target='_blank'",
+        "source": "https://github.com/NavodWijesooriya/Poss-System target='_blank'"
     },
     {
         "title": "MY Portfolio",
